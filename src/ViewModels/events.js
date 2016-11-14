@@ -6,6 +6,6 @@ export class Events{
         this.childProperty = "Event child ViewModel";
         this.events = [
             {id:'NV01',title:'Catch-22'},
-            {id:'NV02',title:'The Great Gatsby'}]
+            {id:'NV02',title:'The Great Gatsby'}];
     }
 }
